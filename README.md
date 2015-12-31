@@ -21,4 +21,4 @@ To replicate this project a few things are needed:
 
 ## Demonstration
 [Here is a video](https://www.youtube.com/watch?v=n7S699mHgeI&ab_channel=BaileyHerms) where I demonstrate how the project works.
-[Here is a folder](https://drive.google.com/open?id=0Bx_tvMSO1SZna2k0bE1YOFFWUEk) which has schematics and an explanation of the project.
+[Here is a folder](https://drive.google.com/folderview?id=0Bx_tvMSO1SZna2k0bE1YOFFWUEk&usp=sharing) which has schematics and an explanation of the project.
